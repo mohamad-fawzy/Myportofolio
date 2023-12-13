@@ -47,22 +47,6 @@ function Allprojects(){
             <div className="allProjects">
                 <div className="Project">
                     <div>
-                        <h3>marketing</h3>
-                    </div>
-                    <a target="_blank" href='https://github.com/mohamad-fawzy/Digital-Marketing-Agency-'>
-                        <img src='./imgProjects/marketing.png'/>
-                    </a> 
-                    <div className="proj-tools">
-                        <img src="/imgskills/html5.png" />
-                        <img src="/imgskills/css.png" />
-                        <img src="/imgskills/sass.png" />
-                    </div>
-                </div>
-            </div>
-
-            <div className="allProjects">
-                <div className="Project">
-                    <div>
                         <h3>Workspace</h3>
                     </div>
                     <a target="_blank" href='https://github.com/mohamad-fawzy'>
