@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 import Link from "next/link";
 
 
@@ -10,7 +9,7 @@ function Footer(){
             <div className="icon-footer">
                 <Link className="link-icon" target="_blank" href="https://github.com/mohamad-fawzy">
                     <div  className="img-cont">
-                        <img src="/imgskills/github.png"/>
+                        <img src="/imgskills/github.png" />
                         <h5>github</h5>
                     </div> 
                 </Link>
