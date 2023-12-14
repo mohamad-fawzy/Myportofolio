@@ -7,6 +7,7 @@ import Link from "next/link";
 import { Router} from "next/router";
 import {useState , useRef} from 'react'
 import { usePathname } from "next/navigation";
+import CustomizedMenus from "./menu"
 
 
 
@@ -16,7 +17,14 @@ const Li_topbar  = (nametap) => {
     );
 }
 
- const Topbar = () => {
+
+
+
+
+
+
+
+const Topbar = () => {
 
     const [ val , setval ] = useState("li_tap")
     
@@ -47,7 +55,10 @@ const Li_topbar  = (nametap) => {
                     <Link href="/footer"  className={usePathname()==="/footer" ? "redClass" : "li_tap"}>
                         <Li_topbar tap='Contact Me'/>
                     </Link>
+                    <CustomizedMenus/>
                 </ul>
+               
+
         </div>
     );
 }

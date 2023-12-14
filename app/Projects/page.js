@@ -14,7 +14,7 @@ function Allprojects(){
             <div className="allProjects">
                 <div className="Project">
                     <div>
-                        <h3>marketing</h3>
+                        <h3>Myportofolio</h3>
                     </div>
                     <a target="_blank" href='https://github.com/mohamad-fawzy/Digital-Marketing-Agency-'>
                         <img src='./imgProjects/mypor.png'/>
@@ -31,7 +31,7 @@ function Allprojects(){
             <div className="allProjects">
                 <div className="Project">
                     <div>
-                        <h3>marketing</h3>
+                        <h3>Marketing</h3>
                     </div>
                     <a target="_blank" href='https://github.com/mohamad-fawzy/Digital-Marketing-Agency-'>
                         <img src='./imgProjects/marketing.png'/>
@@ -62,7 +62,7 @@ function Allprojects(){
             <div className="allProjects">
                 <div className="Project">
                     <div>
-                        <h3>codex</h3>
+                        <h3>Codex</h3>
                     </div>
                     <a target="_blank" href='https://github.com/mohamad-fawzy/codex'>
                         <img src="/imgProjects/codex.png"/>
@@ -78,7 +78,7 @@ function Allprojects(){
             <div className="allProjects">
                 <div className="Project">
                     <div>
-                        <h3>iphon 13 pro max</h3>
+                        <h3>Iphon 13 pro max</h3>
                     </div>
                     <a target="_blank" href='https://github.com/mohamad-fawzy/iphon-13-pro-max'>
                         <img src="/imgProjects/phon.png"/>
